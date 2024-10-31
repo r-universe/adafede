@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/adafede/adafede.r-universe.dev
 	branch = HEAD
+[submodule "MsnBase"]
+	path = MsnBase
+	url = https://github.com/bioc/MsnBase
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/adafede/cascade
@@ -14,3 +17,6 @@
 	path = microshades
 	url = https://github.com/KarstensLab/microshades
 	registered = false
+[submodule "xcms"]
+	path = xcms
+	url = https://github.com/bioc/xcms
