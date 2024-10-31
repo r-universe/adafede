@@ -6,3 +6,11 @@
 	path = cascade
 	url = https://github.com/adafede/cascade
 	branch = dev
+[submodule "chromatographR"]
+	path = chromatographR
+	url = https://github.com/ethanbass/chromatographR
+	registered = false
+[submodule "microshades"]
+	path = microshades
+	url = https://github.com/KarstensLab/microshades
+	registered = false

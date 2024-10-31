@@ -1,0 +1,14 @@
+[
+  {
+    "package": "chromatographR",
+    "url": "https://github.com/ethanbass/chromatographR",
+    "via": ["cascade"],
+    "from": "cascade"
+  },
+  {
+    "package": "microshades",
+    "url": "https://github.com/KarstensLab/microshades",
+    "via": ["cascade"],
+    "from": "cascade"
+  }
+]
