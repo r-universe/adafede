@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/adafede/adafede.r-universe.dev
 	branch = HEAD
-[submodule "MsnBase"]
-	path = MsnBase
+[submodule "Msnbase"]
+	path = Msnbase
 	url = https://github.com/bioc/MsnBase
 [submodule "cascade"]
 	path = cascade
