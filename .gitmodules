@@ -17,6 +17,9 @@
 [submodule "ProtGenerics"]
 	path = ProtGenerics
 	url = https://github.com/bioc/ProtGenerics
+[submodule "Rdisop"]
+	path = Rdisop
+	url = https://github.com/bioc/Rdisop
 [submodule "Spectra"]
 	path = Spectra
 	url = https://github.com/bioc/Spectra
@@ -32,6 +35,18 @@
 	path = microshades
 	url = https://github.com/KarstensLab/microshades
 	registered = false
+[submodule "mzR"]
+	path = mzR
+	url = https://github.com/bioc/mzR
+[submodule "nucleR"]
+	path = nucleR
+	url = https://github.com/bioc/nucleR
+[submodule "pRoloc"]
+	path = pRoloc
+	url = https://github.com/bioc/pRoloc
+[submodule "pRolocdata"]
+	path = pRolocdata
+	url = https://github.com/bioc/pRolocdata
 [submodule "xcms"]
 	path = xcms
 	url = https://github.com/bioc/xcms
