@@ -20,6 +20,12 @@
 [submodule "Rdisop"]
 	path = Rdisop
 	url = https://github.com/bioc/Rdisop
+[submodule "Rsamtools"]
+	path = Rsamtools
+	url = https://github.com/bioc/Rsamtools
+[submodule "ShortRead"]
+	path = ShortRead
+	url = https://github.com/bioc/ShortRead
 [submodule "Spectra"]
 	path = Spectra
 	url = https://github.com/bioc/Spectra
