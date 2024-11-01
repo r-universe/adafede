@@ -5,6 +5,21 @@
 [submodule "MSnbase"]
 	path = MSnbase
 	url = https://github.com/bioc/MSnbase
+[submodule "MetaboCoreUtils"]
+	path = MetaboCoreUtils
+	url = https://github.com/bioc/MetaboCoreUtils
+[submodule "MsCoreUtils"]
+	path = MsCoreUtils
+	url = https://github.com/bioc/MsCoreUtils
+[submodule "MsExperiment"]
+	path = MsExperiment
+	url = https://github.com/bioc/MsExperiment
+[submodule "ProtGenerics"]
+	path = ProtGenerics
+	url = https://github.com/bioc/ProtGenerics
+[submodule "Spectra"]
+	path = Spectra
+	url = https://github.com/bioc/Spectra
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/adafede/cascade
