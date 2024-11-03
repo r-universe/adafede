@@ -1,7 +1,19 @@
 [
   {
+    "package": "MSnbase",
+    "url": "https://github.com/bioc/MSnbase",
+    "via": ["cascade"],
+    "from": "cascade"
+  },
+  {
     "package": "chromatographR",
     "url": "https://github.com/ethanbass/chromatographR",
+    "via": ["cascade"],
+    "from": "cascade"
+  },
+  {
+    "package": "mzR",
+    "url": "https://github.com/bioc/mzR",
     "via": ["cascade"],
     "from": "cascade"
   }

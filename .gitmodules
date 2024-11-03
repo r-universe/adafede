@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/adafede/adafede.r-universe.dev
 	branch = HEAD
+[submodule "MSnbase"]
+	path = MSnbase
+	url = https://github.com/bioc/MSnbase
+	registered = false
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/adafede/cascade
@@ -9,4 +13,8 @@
 [submodule "chromatographR"]
 	path = chromatographR
 	url = https://github.com/ethanbass/chromatographR
+	registered = false
+[submodule "mzR"]
+	path = mzR
+	url = https://github.com/bioc/mzR
 	registered = false
