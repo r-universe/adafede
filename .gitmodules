@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "GenomeInfoDbData"]
 	path = GenomeInfoDbData
-	url = https://github.com/bioc/GenomeInfoDbData
+	url = https://github.com/Bioconductor/GenomeInfoDbData
 [submodule "MSnbase"]
 	path = MSnbase
 	url = https://github.com/bioc/MSnbase
