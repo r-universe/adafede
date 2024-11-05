@@ -2,7 +2,3 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "chromatographR"]
-	path = chromatographR
-	url = https://github.com/ethanbass/chromatographR
-	registered = false
