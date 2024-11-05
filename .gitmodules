@@ -8,7 +8,7 @@
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/adafede/cascade
-	branch = main
+	branch = dev
 [submodule "chromatographR"]
 	path = chromatographR
 	url = https://github.com/ethanbass/chromatographR
