@@ -5,7 +5,3 @@
 [submodule "MSnbase"]
 	path = MSnbase
 	url = https://github.com/bioc/MSnbase
-[submodule "chromatographR"]
-	path = chromatographR
-	url = https://github.com/ethanbass/chromatographR
-	registered = false
