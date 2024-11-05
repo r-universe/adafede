@@ -1,21 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/adafede/adafede.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GenomeInfoDbData"]
-	path = GenomeInfoDbData
-	url = https://github.com/Bioconductor/GenomeInfoDbData
-[submodule "MSnbase"]
-	path = MSnbase
-	url = https://github.com/bioc/MSnbase
-[submodule "cascade"]
-	path = cascade
-	url = https://github.com/adafede/cascade
-	branch = main
 [submodule "chromatographR"]
 	path = chromatographR
 	url = https://github.com/ethanbass/chromatographR
 	registered = false
-[submodule "mzR"]
-	path = mzR
-	url = https://github.com/bioc/mzR
