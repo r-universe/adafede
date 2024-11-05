@@ -2,6 +2,16 @@
 	path = .registry
 	url = https://github.com/adafede/adafede.r-universe.dev
 	branch = HEAD
+[submodule "GenomeInfoDbData"]
+	path = GenomeInfoDbData
+	url = https://github.com/bioc/GenomeInfoDbData
 [submodule "MSnbase"]
 	path = MSnbase
 	url = https://github.com/bioc/MSnbase
+[submodule "cascade"]
+	path = cascade
+	url = https://github.com/adafede/cascade
+	branch = main
+[submodule "mzR"]
+	path = mzR
+	url = https://github.com/bioc/mzR
