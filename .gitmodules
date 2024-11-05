@@ -5,14 +5,7 @@
 [submodule "MSnbase"]
 	path = MSnbase
 	url = https://github.com/bioc/MSnbase
-[submodule "cascade"]
-	path = cascade
-	url = https://github.com/adafede/cascade
-	branch = dev
 [submodule "chromatographR"]
 	path = chromatographR
 	url = https://github.com/ethanbass/chromatographR
 	registered = false
-[submodule "mzR"]
-	path = mzR
-	url = https://github.com/bioc/mzR
