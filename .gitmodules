@@ -19,3 +19,6 @@
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/bioc/mzR
+[submodule "zlibbioc"]
+	path = zlibbioc
+	url = https://github.com/Bioconductor/zlibbioc
