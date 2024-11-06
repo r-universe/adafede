@@ -19,6 +19,10 @@
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/bioc/mzR
+[submodule "tima"]
+	path = tima
+	url = https://github.com/taxonomicallyinformedannotation/tima
+	registered = false
 [submodule "zlibbioc"]
 	path = zlibbioc
 	url = https://github.com/Bioconductor/zlibbioc

@@ -4,5 +4,11 @@
     "url": "https://github.com/ethanbass/chromatographR",
     "via": ["cascade"],
     "from": "cascade"
+  },
+  {
+    "package": "tima",
+    "url": "https://github.com/taxonomicallyinformedannotation/tima",
+    "via": ["cascade"],
+    "from": "cascade"
   }
 ]
