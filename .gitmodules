@@ -15,6 +15,9 @@
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/bioc/mzR
+[submodule "tidytable"]
+	path = tidytable
+	url = https://github.com/markfairbanks/tidytable
 [submodule "tima"]
 	path = tima
 	url = https://github.com/taxonomicallyinformedannotation/tima
