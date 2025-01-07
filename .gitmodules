@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/adafede/adafede.r-universe.dev
 	branch = HEAD
+[submodule "AlpsNMR"]
+	path = AlpsNMR
+	url = https://github.com/bioc/AlpsNMR
 [submodule "GenomeInfoDbData"]
 	path = GenomeInfoDbData
 	url = https://github.com/Bioconductor/GenomeInfoDbData
