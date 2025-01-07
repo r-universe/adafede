@@ -1,8 +1,20 @@
 [
   {
+    "package": "cascade",
+    "url": "https://github.com/adafede/cascade",
+    "via": ["sapid"],
+    "from": "sapid"
+  },
+  {
     "package": "tima",
     "url": "https://github.com/taxonomicallyinformedannotation/tima",
     "via": ["cascade"],
     "from": "cascade"
+  },
+  {
+    "package": "tima",
+    "url": "https://github.com/taxonomicallyinformedannotation/tima",
+    "via": ["sapid", "cascade"],
+    "from": "sapid"
   }
 ]
