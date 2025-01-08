@@ -5,6 +5,9 @@
 [submodule "AlpsNMR"]
 	path = AlpsNMR
 	url = https://github.com/bioc/AlpsNMR
+[submodule "BiocParallel"]
+	path = BiocParallel
+	url = https://github.com/bioc/BiocParallel
 [submodule "GenomeInfoDbData"]
 	path = GenomeInfoDbData
 	url = https://github.com/Bioconductor/GenomeInfoDbData
@@ -15,6 +18,9 @@
 	path = cascade
 	url = https://github.com/adafede/cascade
 	branch = main
+[submodule "mixOmics"]
+	path = mixOmics
+	url = https://github.com/bioc/mixOmics
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/bioc/mzR
