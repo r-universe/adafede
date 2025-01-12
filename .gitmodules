@@ -28,6 +28,9 @@
 	path = sapid
 	url = https://github.com/adafede/sapid
 	branch = main
+[submodule "speaq"]
+	path = speaq
+	url = https://github.com/Beirnaert/speaq
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/markfairbanks/tidytable
