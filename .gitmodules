@@ -8,6 +8,10 @@
 [submodule "BiocParallel"]
 	path = BiocParallel
 	url = https://github.com/bioc/BiocParallel
+[submodule "CentroidR"]
+	path = CentroidR
+	url = https://github.com/adafede/CentroidR
+	branch = main
 [submodule "GenomeInfoDbData"]
 	path = GenomeInfoDbData
 	url = https://github.com/Bioconductor/GenomeInfoDbData
