@@ -7,7 +7,7 @@
   },
   {
     "package": "mzR",
-    "url": "https://github.com/sneumann/mzR",
+    "url": "https://github.com/bioc/mzR",
     "via": ["CentroidR"],
     "from": "CentroidR"
   },

@@ -15,7 +15,7 @@
 	branch = main
 [submodule "mzR"]
 	path = mzR
-	url = https://github.com/sneumann/mzR
+	url = https://github.com/bioc/mzR
 	registered = false
 [submodule "sapid"]
 	path = sapid
