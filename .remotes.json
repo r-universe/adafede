@@ -14,12 +14,6 @@
   {
     "package": "targets",
     "url": "https://github.com/ropensci/targets",
-    "via": ["cascade", "tima"],
-    "from": "cascade"
-  },
-  {
-    "package": "targets",
-    "url": "https://github.com/ropensci/targets",
     "via": ["sapid", "cascade", "tima"],
     "from": "sapid"
   },
