@@ -12,12 +12,6 @@
     "from": "CentroidR"
   },
   {
-    "package": "targets",
-    "url": "https://github.com/ropensci/targets",
-    "via": ["sapid", "cascade", "tima"],
-    "from": "sapid"
-  },
-  {
     "package": "tima",
     "url": "https://github.com/taxonomicallyinformedannotation/tima",
     "via": ["cascade"],
