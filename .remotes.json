@@ -6,12 +6,6 @@
     "from": "sapid"
   },
   {
-    "package": "mzR",
-    "url": "https://github.com/bioc/mzR",
-    "via": ["CentroidR"],
-    "from": "CentroidR"
-  },
-  {
     "package": "tima",
     "url": "https://github.com/taxonomicallyinformedannotation/tima",
     "via": ["cascade"],
