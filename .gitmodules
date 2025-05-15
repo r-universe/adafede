@@ -6,9 +6,6 @@
 	path = CentroidR
 	url = https://github.com/adafede/CentroidR
 	branch = main
-[submodule "GenomeInfoDbData"]
-	path = GenomeInfoDbData
-	url = https://github.com/Bioconductor/GenomeInfoDbData
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/adafede/cascade
