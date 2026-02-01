@@ -14,7 +14,3 @@
 	path = sapid
 	url = https://github.com/adafede/sapid
 	branch = main
-[submodule "tima"]
-	path = tima
-	url = https://github.com/taxonomicallyinformedannotation/tima
-	registered = false
