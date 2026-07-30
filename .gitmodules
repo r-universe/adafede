@@ -6,6 +6,10 @@
 	path = CentroidR
 	url = https://github.com/adafede/CentroidR
 	branch = main
+[submodule "SpectRalLibRaRies"]
+	path = SpectRalLibRaRies
+	url = https://github.com/adafede/SpectRalLibRaRies
+	branch = main
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/adafede/cascade
