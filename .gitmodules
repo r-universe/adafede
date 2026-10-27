@@ -6,6 +6,10 @@
 	path = CentroidR
 	url = https://github.com/adafede/CentroidR
 	branch = main
+[submodule "EthnoBotaPhyWR"]
+	path = EthnoBotaPhyWR
+	url = https://github.com/adafede/EthnoBotaPhyWR
+	branch = main
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/adafede/cascade
